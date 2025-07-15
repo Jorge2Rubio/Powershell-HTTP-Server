@@ -13,9 +13,9 @@ Options:
   -Help       Show this help message
 
 Examples:
-  .\server.ps1 \n
-  .\server.ps1 -Port 8080 -Path "C:\Shared" \n
-  .\server.ps1 -Help
+  .\server.ps1 <br>
+  .\server.ps1 -Port 8080 -Path "C:\Shared" <br>
+  .\server.ps1 -Help <br>
 
 Features:
   - Directory browsing with navigation links
