@@ -1,4 +1,4 @@
-## This is a simple HTTP server that helps with file transfers between Windows machines. <br>
+## This is a Simple Powershell HTTP server that helps with file transfers between Windows machines. <br>
 (Admin privileges are required.)
 
 HTTP FILE SERVER USAGE: <br>
