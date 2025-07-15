@@ -12,7 +12,7 @@ Options: <br>
   -Path       Specify the directory to serve (default: current directory) <br>
   -Help       Show this help message <br>
 
-Examples:
+Examples: <br>
   .\server.ps1 <br>
   .\server.ps1 -Port 8080 -Path "C:\Shared" <br>
   .\server.ps1 -Help <br>
