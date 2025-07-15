@@ -1,6 +1,5 @@
 ## This is a simple HTTP server that helps with file transfers between Windows machines.
 (Admin privileges are required.)
-Usage:
 
 HTTP FILE SERVER USAGE:
 ======================
