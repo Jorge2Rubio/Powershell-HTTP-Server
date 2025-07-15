@@ -1,16 +1,16 @@
-## This is a simple HTTP server that helps with file transfers between Windows machines.
+## This is a simple HTTP server that helps with file transfers between Windows machines. <br>
 (Admin privileges are required.)
 
-HTTP FILE SERVER USAGE:
+HTTP FILE SERVER USAGE: <br>
 ======================
 
-Basic Usage:
+Basic Usage: <br>
   .\server.ps1 [-Port <number>] [-Path <directory>]
 
-Options:
-  -Port       Specify the port to listen on (default: 4000)
-  -Path       Specify the directory to serve (default: current directory)
-  -Help       Show this help message
+Options: <br>
+  -Port       Specify the port to listen on (default: 4000) <br>
+  -Path       Specify the directory to serve (default: current directory) <br>
+  -Help       Show this help message <br>
 
 Examples:
   .\server.ps1 <br>
