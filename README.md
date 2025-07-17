@@ -21,4 +21,3 @@ Features:
   - Directory browsing with navigation links
   - File downloads with proper MIME types
   - Automatic firewall rule management
-  - Security against path traversal attacks
